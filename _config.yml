@@ -1,20 +1,4 @@
-name: Danny
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.06227
-title: 'Learning the Ropes and living with Chickens!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.4265671952161938
   saturation: 0.8941872764844447
   rhythmicContrast: 0.18811219511553645
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Danny
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Learning the Ropes and living with Chickens!
 purpose: []
