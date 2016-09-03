@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Home
+    id: 9624d7a3-f9c2-4ec6-b58a-510ecdfb6585
+    type: content
 favicon: null
 title: Learning the Ropes and living with Chickens!
 purpose: []
